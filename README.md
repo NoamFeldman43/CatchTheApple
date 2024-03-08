@@ -40,3 +40,5 @@
 ובודק אם התפוח נתפס או נפל.
 
 תהנו 🍎
+
+![Screenshot_4](https://github.com/NoamFeldman43/-/assets/145356566/3a814ea5-b477-493b-b334-79c3792a3f5f)
